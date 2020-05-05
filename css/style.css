@@ -171,7 +171,7 @@ img {
   color: rgb(153, 153, 153);
   line-height: 1.6;
   text-align: center;
-  width: 980px;
+  max-width: 980px;
   margin: 0 auto;
   padding-bottom: 90px;
 }
